@@ -1,5 +1,5 @@
 # algoritmos-estruturas.basicas
-Apenas alguns exemplos
+Apenas alguns exemplos básicos.  OBS:Já fiz outros bem mais complexos
 # Lógica de Programação e Algoritmos em C
 
 Repositório com exercícios desenvolvidos durante o curso de Ciência da Computação,
