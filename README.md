@@ -9,4 +9,4 @@ com foco em lógica de programação e fundamentos da linguagem C.
 - Entrada e saída de dados.
 - Estruturas condicionais.
 - Estruturas de repetição.
-- Vetores.
+- Vetores e Matrizes.
