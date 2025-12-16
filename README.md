@@ -6,7 +6,7 @@ Repositório com exercícios desenvolvidos durante o curso de Ciência da Comput
 com foco em lógica de programação e fundamentos da linguagem C.
 
 ## Conteúdos abordados
-- Entrada e saída de dados
-- Estruturas condicionais
-- Estruturas de repetição
-- Vetores
+- Entrada e saída de dados.
+- Estruturas condicionais.
+- Estruturas de repetição.
+- Vetores.
